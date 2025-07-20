@@ -2,6 +2,8 @@
 
 A simple web application that analyzes text to provide word count, character count, sentence count, and keyword density analysis.
 
+![Word Counter Preview](wc1.png)
+
 ## Features
 
 - Word count (separated by whitespace)
