@@ -4,6 +4,8 @@ A simple web application that analyzes text to provide word count, character cou
 
 ![Word Counter Preview](wc1.png)
 
+
+
 ## Features
 
 - Word count (separated by whitespace)
