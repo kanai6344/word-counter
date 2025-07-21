@@ -26,7 +26,7 @@ A simple web application that analyzes text to provide word count, character cou
 
 ## Live Demo
 
-You can view a live version of this tool at [GitHub Pages URL]
+You can view a live version of this tool at [(https://kanai6344.github.io/word-counter/)]
 
 
 ## Technologies Used
