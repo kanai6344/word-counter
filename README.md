@@ -16,6 +16,12 @@ A simple web application that analyzes text to provide word count, character cou
   - Top 20 most frequent words
   - Count for each word
   - Percentage of total words
+ 
+
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/word-counter/)]
+
 
 ## How to Use
 
@@ -23,10 +29,6 @@ A simple web application that analyzes text to provide word count, character cou
 2. Open `index.html` in your web browser
 3. Paste your text into the text area
 4. Click "Analyze Text" to see the results
-
-## Live Demo
-
-You can view a live version of this tool at [(https://kanai6344.github.io/word-counter/)]
 
 
 ## Technologies Used
