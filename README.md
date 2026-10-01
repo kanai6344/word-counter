@@ -14,7 +14,7 @@ A simple web application that analyzes text to provide word count, character cou
 - Keyword density analysis showing:
   - Top 20 most frequent words
   - Count for each word
-  - Percentage of total words
+
  
 
 ## Live Demo
